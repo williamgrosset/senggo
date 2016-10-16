@@ -1,4 +1,4 @@
-# Go Web Application
+# Go Game Web Application
 This was a collaborative project for the SENG 299: Software Architecture & Design course at the University of Victoria. Feel free to check out the final report for a full analysis of the application development.
 
 ## Members
