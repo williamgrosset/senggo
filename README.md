@@ -1,9 +1,18 @@
-# senggo
-SENG 299 Go Project
+# Go Web Application
+This was a collaborative project for the SENG 299: Software Architecture & Design course at the University of Victoria.
 
-##Quick-Start Guide
+## Members
++ William Grosset *(Front-end developer)*
+    * No previous web-development experience
+    * No previous co-op experience
++ Shreyas Devalapurkar *(User-interface developer)*
+    * No previous web-development experience
+    * No previous co-op experience
++ Cailan St. Martin *(Back-end game developer)*
+    * No previous web-development experience
++ Justin Richard *(Back-end developer)*
++ Wyll Brimacombe *(Front-end game developer)*
+    * No previous web-development experience
+    * No previous co-op experience
 
-To start the server: first start your MongoDB server and then type "npm start"
-in the directory that contains server.js
-
-This applies to both localhost:30040 and roberts.seng.uvic.ca:30040 versions of the application.
+## Screenshots
