@@ -9,6 +9,11 @@ This was a collaborative project for the SENG 299: Software Architecture & Desig
 | Cailan St. Martin    | *Back-end game developer*  | None           | Yes              |
 | Justin Richard       | *Back-end developer*       | Yes            | Yes              |
 | Wyll Brimecombe      | *Front-end game developer* | None           | None             |
-*Roles were very collaborative throughout the semester.*
+&#42;*Roles were very collaborative throughout the semester.*
 
 ## Screenshots
+<p align='center'>
+    <img src="https://github.com/williamgrosset/senggo/blob/master/screenshots/example1.png">
+    <img src="https://github.com/williamgrosset/senggo/blob/master/screenshots/example2.png">
+    <img src="https://github.com/williamgrosset/senggo/blob/master/screenshots/example3.png">
+</p>
